@@ -45,18 +45,6 @@ This project is developed as a **team project** with the objective of helping st
 
 ---
 
-## Learning Outcomes
-
-Through this project, we learned:
-
-- How to structure multi-section web pages using semantic HTML  
-- How to design responsive layouts using CSS Grid  
-- How to build reusable UI components using a card-based design  
-- How to collaborate effectively and divide tasks in a team environment  
-- The importance and impact of open-source software in modern development  
-
----
-
 # Screenshots
 
 <img width="1892" height="1004" alt="image" src="https://github.com/user-attachments/assets/8a22110b-16d6-4a89-bb7c-461a48399beb" />
