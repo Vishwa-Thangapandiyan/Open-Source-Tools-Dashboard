@@ -4,6 +4,7 @@ A curated, category-wise dashboard showcasing powerful and popular **open-source
 This project is developed as a **team project** with the objective of helping students and developers **discover, understand, and access open-source software** from a single, organized platform.
 
 Project link: https://vishwa-thangapandiyan.github.io/Open-Source-Tools-Dashboard/
+
 ---
 
 ## Project Objectives
